@@ -27,7 +27,13 @@
 - 발표를 듣기 전이나 들으면서 혹은 다른 사람이 정리한 부분에 댓글을 남겨서 질문 및 논의한 내용을 트래킹
 
 ### WWDC 영상 리스트 (2022.06.24일까지 인당 5개 list-up)
-- [ ] a 
+
+#### 송
+- [WWDC 2019: Designing Audio-Haptic Experiences](https://developer.apple.com/videos/play/wwdc2019/810/)
+- [WWDC 2019: Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/)
+- [WWDC 2020: Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028)
+- [WWDC 2020: Design for location privacy](https://developer.apple.com/videos/play/wwdc2020/10162/)
+- [WWDC 2020: The details of UI typography](https://developer.apple.com/videos/play/wwdc2020/10175/)
 
 
 ## 기록
