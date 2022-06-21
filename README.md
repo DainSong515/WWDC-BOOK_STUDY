@@ -6,13 +6,13 @@
 ## 공부 사이트
 
 - [Real-World iOS by Tutorial](https://www.raywenderlich.com/books/real-world-ios-by-tutorials)
-- [Apple WWDC22](https://developer.apple.com/wwdc22/)
-- [Apple WWDC21](https://developer.apple.com/wwdc21/)
-- [Apple WWDC20](https://developer.apple.com/wwdc20/)
-- [Apple WWDC19](https://developer.apple.com/wwdc19/)
-- [Apple WWDC18](https://developer.apple.com/wwdc18/)
-- [Apple WWDC17](https://developer.apple.com/wwdc17/)
-- [Apple WWDC16](https://developer.apple.com/wwdc16/)
+- [Apple WWDC22](https://developer.apple.com/videos/wwdc2022)
+- [Apple WWDC21](https://developer.apple.com/videos/wwdc2021)
+- [Apple WWDC20](https://developer.apple.com/videos/wwdc2020)
+- [Apple WWDC19](https://developer.apple.com/videos/wwdc2019)
+- [Apple WWDC18](https://developer.apple.com/videos/wwdc2018)
+- [Apple WWDC17](https://developer.apple.com/videos/wwdc2017)
+- [Apple WWDC16](https://developer.apple.com/videos/wwdc2016)
 
 ## 스터디 규칙
 
