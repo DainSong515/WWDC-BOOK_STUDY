@@ -1,22 +1,27 @@
 # 🎥 WWDC & 📗 Real-World iOS by Tutorial Study
 
 - 스터디 구성원: 홍동현, 송다인, 이송, 연정민
-- 스터디 기간: 2022.07. ~
+- 스터디 기간: 2022.07.05 ~
 
-## 공부 사이트
+## 자료
 
-- [Real-World iOS by Tutorial](https://www.raywenderlich.com/books/real-world-ios-by-tutorials)
-- [Apple WWDC22](https://developer.apple.com/videos/wwdc2022)
-- [Apple WWDC21](https://developer.apple.com/videos/wwdc2021)
-- [Apple WWDC20](https://developer.apple.com/videos/wwdc2020)
-- [Apple WWDC19](https://developer.apple.com/videos/wwdc2019)
-- [Apple WWDC18](https://developer.apple.com/videos/wwdc2018)
-- [Apple WWDC17](https://developer.apple.com/videos/wwdc2017)
-- [Apple WWDC16](https://developer.apple.com/videos/wwdc2016)
+### Real-World iOS by Tutorial
+- [Articles](https://www.raywenderlich.com/books/real-world-ios-by-tutorials)
+- [Materials](https://github.com/raywenderlich/rwi-materials/tree/editions/1.0)
+
+### WWDC
+
+- [2022](https://developer.apple.com/videos/wwdc2022)
+- [2021](https://developer.apple.com/videos/wwdc2021)
+- [2020](https://developer.apple.com/videos/wwdc2020)
+- [2019](https://developer.apple.com/videos/wwdc2019)
+- [2018](https://developer.apple.com/videos/wwdc2018)
+- [2017](https://developer.apple.com/videos/wwdc2017)
+- [2016](https://developer.apple.com/videos/wwdc2016)
 
 ## 스터디 규칙
 
-- 요일: 월~목 중 하루
+- 요일: 화요일
 - 시간: `18:30 ~ `
 
 ## 스터디 진행 방법
