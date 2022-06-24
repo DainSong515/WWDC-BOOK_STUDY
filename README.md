@@ -40,19 +40,56 @@
 - [WWDC 2020: Design for location privacy](https://developer.apple.com/videos/play/wwdc2020/10162/)
 - [WWDC 2020: The details of UI typography](https://developer.apple.com/videos/play/wwdc2020/10175/)
 
+**Protocol**
+- Protocol Oriented Programming - 2015
+- Protocol and Value Oriented Programming in UIKit Apps - 2016
+
+**Swift**
+- Swift Generics - 2018
+- Embrace Swift type inference - 2020
+
+**Debugging**
+- Finding Bugs Using Xcode Runtime Tools - 2017
+- Advanced Debugging with Xcode and LLDB - 2018
+- Thread Sanitizer and Static Analysis - 2016
+- Debugging Tips and Tricks - 2016
+- Visual Debugging with Xcode - 2016
+- Debugging with Xcode 9 - 2017
+- LLDB: Beyond “po” - 2019
+
+**Performance**
+- Understanding Swift Performance - 2016
+- iOS Memory Deep Dive - 2018
+- Using Collections Effectively - 2018
+- Practical Approaches to Great App Performance - 2018
+- Using Time Profiler in Instruments - 2016
+
+**Concurrent**
+- Concurrent Programming With GCD in Swift 3 - 2016
+- Modernizing Grand Central Dispatch Usage - 2017
+
+**Localization**
+- Internationalization Best Practices - 2016
+- Localizing with Xcode 9 - 2017
+
+**Accessibility**
+- Building Apps with Dynamic Type - 2017
+- Design For Everyone - 2017
+- Make your app visually accessible - 2020
+
 
 ## 기록
 
 |        | 주제 | 발표자 | 진행 날짜 |
 | :----: | :----: | :----: | -------- |
-| 1주차  |        |        | 2022.     |
-| 2주차  |        |        |           |
-| 3주차  |        |        |           |
-| 4주차  |        |        |           |
-| 5주차  |        |        |           |
-| 6주차  |        |        |           |
-| 7주차  |        |        |           |
-| 8주차  |        |        |           |
+| 1주차  |    WWDC    |    송다인    | 2022.07.05(화)  |
+| 2주차  |    책    |    연정민    |    2022.      |
+| 3주차  |    WWDC    |    홍동현    |           |
+| 4주차  |    책    |    이송    |           |
+| 5주차  |    책    |    송다인    |           |
+| 6주차  |    WWDC    |    연정민    |           |
+| 7주차  |    책    |    홍동현    |           |
+| 8주차  |    WWDC    |    이송    |           |
 | 9주차  |        |        |           |
 | 10주차 |        |        |           |
 | 11주차 |        |        |           |
@@ -66,4 +103,3 @@
 | 19주차 |        |        |           |
 | 20주차 |        |        |           |
 | 21주차 |        |        |           |
-
