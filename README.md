@@ -32,8 +32,9 @@
 ## 스터디 진행 방법
 
 각자 해당 주에 정해진 영상 or 책을 읽고 정리해온 뒤 발표는 그 날 랜덤으로 진행
-- 해당 주에 주제에 맞춰서 각자 Issues 생성 뒤 issues에 정리를 진행
-- 스터디 당일에 랜덤으로 누가 발표할지 [뽑기](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%82%AC%EB%8B%A4%EB%A6%AC+%ED%83%80%EA%B8%B0)
+[사다리 타기](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%82%AC%EB%8B%A4%EB%A6%AC+%ED%83%80%EA%B8%B0)
+- 발표자는 1주 전에 어떤 주제, 책을 어느정도 분량으로 할 지 미리 공유
+- 발표자를 제외하고도 주제에 맞춰서 전부 발표자가 정한 분량까지 공부
 - 발표를 듣기 전이나 들으면서 혹은 다른 사람이 정리한 부분에 댓글을 남겨서 질문 및 논의한 내용을 트래킹
 
 ### WWDC 영상 리스트 (2022.06.24일까지 인당 5개 list-up)
