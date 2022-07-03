@@ -61,7 +61,7 @@
 - Debugging Tips and Tricks - 2016
 - Visual Debugging with Xcode - 2016
 - Debugging with Xcode 9 - 2017
-- LLDB: Beyond “po” - 2019
+- LLDB: Beyond “po” - 2019 ✅
 
 **Performance**
 - Understanding Swift Performance - 2016
@@ -88,7 +88,7 @@
 
 |        | 주제 | 발표자 | 진행 날짜 |
 | :----: | :----: | :----: | -------- |
-| 1주차  |    WWDC    |    송다인    | 2022.07.05(화)  |
+| 1주차  |  LLDB: Beyond “po” - WWDC19    |    송다인    | 2022.07.05(화)  |
 | 2주차  |    책    |    연정민    |    2022.      |
 | 3주차  |    WWDC    |    홍동현    |           |
 | 4주차  |    책    |    이송    |           |
