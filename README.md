@@ -90,7 +90,7 @@
 |        | 주제 | 발표자 | 진행 날짜 |
 | :----: | :----: | :----: | -------- |
 | 1주차  |  LLDB: Beyond “po” - WWDC19    |    송다인    | 2022.07.05(화)  |
-| 2주차  |    2: Laying Down a Strong Foundation    |    연정민    |    2022.      |
+| 2주차  |    Ch2: Laying Down a Strong Foundation    |    연정민    |    2022.07.12(화)   |
 | 3주차  |    Meet async/await in Swift - WWDC21    |    홍동현    |           |
 | 4주차  |    3: Data Layer - Networking    |    이송    |           |
 | 5주차  |    책    |    송다인    |           |
