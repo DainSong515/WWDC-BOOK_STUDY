@@ -75,6 +75,12 @@
 - Concurrent Programming With GCD in Swift 3 - 2016
 - Modernizing Grand Central Dispatch Usage - 2017
 
+**Async/await**
+- Meet async/await in Swift - WWDC21 ✅
+- Protect mutable state with Swift actors - WWDC21
+- Swift concurrency: Behind the scenes - WWDC21
+
+
 **Localization**
 - Internationalization Best Practices - 2016
 - Localizing with Xcode 9 - 2017
@@ -89,22 +95,22 @@
 
 |        | 주제 | 발표자 | 진행 날짜 |
 | :----: | :----: | :----: | -------- |
-| 1주차  |  LLDB: Beyond “po” - WWDC19    |    송다인    | 2022.07.05(화)  |
+| 1주차  |  [LLDB: Beyond “po” - WWDC19](https://developer.apple.com/videos/play/wwdc2019/429/)    |    송다인    | 2022.07.05(화)  |
 | 2주차  |    Ch2: Laying Down a Strong Foundation    |    연정민    |    2022.07.12(화)   |
-| 3주차  |    Meet async/await in Swift - WWDC21    |    홍동현    |           |
-| 4주차  |    3: Data Layer - Networking    |    이송    |           |
-| 5주차  |    책    |    송다인    |           |
-| 6주차  |    WWDC    |    연정민    |           |
-| 7주차  |    책    |    홍동현    |           |
-| 8주차  |    WWDC    |    이송    |           |
-| 9주차  |        |        |           |
-| 10주차 |        |        |           |
-| 11주차 |        |        |           |
-| 12주차 |        |        |           |
-| 13주차 |        |        |           |
-| 14주차 |        |        |           |
-| 15주차 |        |        |           |
-| 16주차 |        |        |           |
+| 3주차  |    [Meet async/await in Swift - WWDC21](https://developer.apple.com/videos/play/wwdc2021/10132)    |    홍동현    |    2022.07.19(화)   |
+| 4주차  |    Ch3: Data Layer - Networking    |    이송    |      2022.07.26(화)     |
+| 5주차  |    [Protect mutable state with Swift actors - WWDC21](https://developer.apple.com/videos/play/wwdc2021/10133/)    |    연정민    |     2022.08.02(화)      |
+| 6주차  |    Ch4:    |    송다인    |           |
+| 7주차  |    WWDC    |    이송    |           |
+| 8주차  |    CH5    |    홍동현    |           |
+| 9주차  |        |   송다인     |           |
+| 10주차 |        |   연정민     |           |
+| 11주차 |        |   홍동현     |           |
+| 12주차 |        |   이송     |           |
+| 13주차 |        |   연정민     |           |
+| 14주차 |        |   송다인     |           |
+| 15주차 |        |   이송     |           |
+| 16주차 |        |   홍동현     |           |
 | 17주차 |        |        |           |
 | 18주차 |        |        |           |
 | 19주차 |        |        |           |
