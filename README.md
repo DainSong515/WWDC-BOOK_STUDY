@@ -100,9 +100,9 @@
 | 3주차  |    [Meet async/await in Swift - WWDC21](https://developer.apple.com/videos/play/wwdc2021/10132)    |    홍동현    |    2022.07.19(화)   |
 | 4주차  |    Ch3: Data Layer - Networking    |    이송    |      2022.07.26(화)     |
 | 5주차  |    [Protect mutable state with Swift actors - WWDC21](https://developer.apple.com/videos/play/wwdc2021/10133/)    |    연정민    |     2022.08.02(화)      |
-| 6주차  |    Ch4:    |    송다인    |           |
-| 7주차  |    [WWDC 2019: Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/)    |    이송    |           |
-| 8주차  |    CH5    |    홍동현    |           |
+| 6주차  |    Ch4: [4 Defining the Data Layer - Databases](https://github.com/jryoun1/WWDC-BOOK_STUDY/discussions/8)   |    송다인    |     2022.08.09(화)      |
+| 7주차  |    [WWDC 2019: Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/)    |    이송    |     2022.08.16(화)      |
+| 8주차  |    Ch4: 4 Defining the Data Layer - Databases    |    홍동현    |    2022.08.23(화)       |
 | 9주차  |        |   송다인     |           |
 | 10주차 |        |   연정민     |           |
 | 11주차 |        |   홍동현     |           |
