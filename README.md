@@ -101,7 +101,7 @@
 | 4주차  |    Ch3: Data Layer - Networking    |    이송    |      2022.07.26(화)     |
 | 5주차  |    [Protect mutable state with Swift actors - WWDC21](https://developer.apple.com/videos/play/wwdc2021/10133/)    |    연정민    |     2022.08.02(화)      |
 | 6주차  |    Ch4:    |    송다인    |           |
-| 7주차  |    WWDC    |    이송    |           |
+| 7주차  |    [WWDC 2019: Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/)    |    이송    |           |
 | 8주차  |    CH5    |    홍동현    |           |
 | 9주차  |        |   송다인     |           |
 | 10주차 |        |   연정민     |           |
