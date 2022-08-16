@@ -101,16 +101,16 @@
 | 4주차  |    Ch3: Data Layer - Networking    |    이송    |      2022.07.26(화)     |
 | 5주차  |    [Protect mutable state with Swift actors - WWDC21](https://developer.apple.com/videos/play/wwdc2021/10133/)    |    연정민    |     2022.08.02(화)      |
 | 6주차  |    Ch4: [4 Defining the Data Layer - Databases](https://github.com/jryoun1/WWDC-BOOK_STUDY/discussions/8)   |    송다인    |     2022.08.09(화)      |
-| 7주차  |    [WWDC 2019: Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/)    |    이송    |     2022.08.16(화)      |
+| 7주차  |    [WWDC 2019: Data Flow Through SwiftUI - part 1](https://developer.apple.com/videos/play/wwdc2019/226/)    |    이송    |     2022.08.16(화)      |
 | 8주차  |    Ch4: 4 Defining the Data Layer - Databases    |    홍동현    |    2022.08.23(화)       |
-| 9주차  |        |   송다인     |           |
-| 10주차 |        |   연정민     |           |
-| 11주차 |        |   홍동현     |           |
-| 12주차 |        |   이송     |           |
-| 13주차 |        |   연정민     |           |
-| 14주차 |        |   송다인     |           |
-| 15주차 |        |   이송     |           |
-| 16주차 |        |   홍동현     |           |
+| 9주차  |    [WWDC 2019: Data Flow Through SwiftUI - part 2](https://developer.apple.com/videos/play/wwdc2019/226/)    |   송다인     |    2022.08.30 (화)  |
+| 10주차 |        |   연정민     |      2022.09.06 (화)     |
+| 11주차 |        |   홍동현     |     2022.09.20 (화)      |
+| 12주차 |        |   이송     |     2022.09.27 (화)     |
+| 13주차 |        |   연정민     |    2022.10.04 (화)       |
+| 14주차 |        |   송다인     |   2022.10.11 (화)        |
+| 15주차 |        |   이송     |       2022.10.18 (화)    |
+| 16주차 |        |   홍동현     |      2022.10.25 (화)     |
 | 17주차 |        |        |           |
 | 18주차 |        |        |           |
 | 19주차 |        |        |           |
