@@ -42,7 +42,7 @@
 
 #### 송
 - [WWDC 2019: Designing Audio-Haptic Experiences](https://developer.apple.com/videos/play/wwdc2019/810/)
-- [WWDC 2019: Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/)
+- [WWDC 2019: Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/) ✅
 - [WWDC 2020: Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028)
 - [WWDC 2020: Design for location privacy](https://developer.apple.com/videos/play/wwdc2020/10162/)
 - [WWDC 2020: The details of UI typography](https://developer.apple.com/videos/play/wwdc2020/10175/)
@@ -77,7 +77,7 @@
 
 **Async/await**
 - Meet async/await in Swift - WWDC21 ✅
-- Protect mutable state with Swift actors - WWDC21
+- Protect mutable state with Swift actors - WWDC21 ✅
 - Swift concurrency: Behind the scenes - WWDC21
 
 
