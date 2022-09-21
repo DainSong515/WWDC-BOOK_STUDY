@@ -105,12 +105,12 @@
 | 8주차  |    Ch4: 4 Defining the Data Layer - Databases    |    홍동현    |    2022.08.23(화)       |
 | 9주차  |    [WWDC 2019: Data Flow Through SwiftUI - part 2](https://developer.apple.com/videos/play/wwdc2019/226/)    |   송다인     |    2022.08.30 (화)  |
 | 10주차 |   [Ch5: Building Features - Locating Animals Near You (1)](https://github.com/jryoun1/WWDC-BOOK_STUDY/discussions/12)     |   연정민     |      2022.09.06 (화)     |
-| 11주차 |        |   홍동현     |     2022.09.21 (수)      |
-| 12주차 |        |   이송     |     2022.09.27 (화)     |
-| 13주차 |        |   연정민     |    2022.10.04 (화)       |
-| 14주차 |        |   송다인     |   2022.10.11 (화)        |
-| 15주차 |        |   이송     |       2022.10.18 (화)    |
-| 16주차 |        |   홍동현     |      2022.10.25 (화)     |
+| 11주차 |   [WWDC 2021: Explore structured concurrency in Swift](https://developer.apple.com/videos/play/wwdc2021/10134/)     |   홍동현     |     2022.09.21 (수)      |
+| 12주차 |        |   이송     |     2022.09.29 (목)     |
+| 13주차 |        |   연정민     |    2022.10.13 (목)       |
+| 14주차 |        |   송다인     |   2022.10.20 (목)        |
+| 15주차 |        |   이송     |       2022.10.27 (목)    |
+| 16주차 |        |   홍동현     |      2022.11.3 (목)     |
 | 17주차 |        |        |           |
 | 18주차 |        |        |           |
 | 19주차 |        |        |           |
