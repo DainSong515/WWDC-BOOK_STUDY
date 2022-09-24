@@ -78,6 +78,7 @@
 **Async/await**
 - Meet async/await in Swift - WWDC21 ✅
 - Protect mutable state with Swift actors - WWDC21 ✅
+- Explore structured concurrency in Swift - WWDC21 ✅
 - Swift concurrency: Behind the scenes - WWDC21
 
 
@@ -105,9 +106,9 @@
 | 8주차  |    Ch4: 4 Defining the Data Layer - Databases    |    홍동현    |    2022.08.23(화)       |
 | 9주차  |    [WWDC 2019: Data Flow Through SwiftUI - part 2](https://developer.apple.com/videos/play/wwdc2019/226/)    |   송다인     |    2022.08.30 (화)  |
 | 10주차 |   [Ch5: Building Features - Locating Animals Near You (1)](https://github.com/jryoun1/WWDC-BOOK_STUDY/discussions/12)     |   연정민     |      2022.09.06 (화)     |
-| 11주차 |   [WWDC 2021: Explore structured concurrency in Swift](https://developer.apple.com/videos/play/wwdc2021/10134/)     |   홍동현     |     2022.09.21 (수)      |
+| 11주차 |   [WWDC 2021: Explore structured concurrency in Swift (1)](https://developer.apple.com/videos/play/wwdc2021/10134/)     |   홍동현     |     2022.09.21 (수)      |
 | 12주차 |     [Ch5: Building Features - Locating Animals Near You (2)](https://github.com/jryoun1/WWDC-BOOK_STUDY/discussions/14)     |   이송     |     2022.09.26 (월)     |
-| 13주차 |        |   연정민     |    2022.10.13 (목)       |
+| 13주차 |  [WWDC 2021: Explore structured concurrency in Swift (2)](https://developer.apple.com/videos/play/wwdc2021/10134/)      |   연정민     |    2022.10.13 (목)       |
 | 14주차 |        |   송다인     |   2022.10.20 (목)        |
 | 15주차 |        |   이송     |       2022.10.27 (목)    |
 | 16주차 |        |   홍동현     |      2022.11.3 (목)     |
