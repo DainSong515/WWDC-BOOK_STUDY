@@ -109,7 +109,7 @@
 | 11주차 |   [WWDC 2021: Explore structured concurrency in Swift (1)](https://developer.apple.com/videos/play/wwdc2021/10134/)     |   홍동현     |     2022.09.21 (수)      |
 | 12주차 |     [Ch5: Building Features - Locating Animals Near You (2)](https://github.com/jryoun1/WWDC-BOOK_STUDY/discussions/14)     |   이송     |     2022.09.26 (월)     |
 | 13주차 |  [WWDC 2021: Explore structured concurrency in Swift (2)](https://developer.apple.com/videos/play/wwdc2021/10134/)      |   연정민     |    2022.10.13 (목)       |
-| 14주차 |        |   송다인     |   2022.10.17 (월)        |
+| 14주차 |  [WWDC 2019: Advances in Collection View Layout(1)](https://developer.apple.com/videos/play/wwdc2019/215)     |   송다인     |   2022.10.17 (월)        |
 | 15주차 |        |   이송      |       2022.10.27 (목)    |
 | 16주차 |        |   홍동현     |      2022.11.3 (목)     |
 | 17주차 |        |        |           |
