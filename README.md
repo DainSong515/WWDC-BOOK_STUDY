@@ -81,7 +81,6 @@
 - Explore structured concurrency in Swift - WWDC21 ✅
 - Swift concurrency: Behind the scenes - WWDC21
 
-
 **Localization**
 - Internationalization Best Practices - 2016
 - Localizing with Xcode 9 - 2017
@@ -90,6 +89,10 @@
 - Building Apps with Dynamic Type - 2017
 - Design For Everyone - 2017
 - Make your app visually accessible - 2020
+
+**CollectionView**
+- [Advances in Collection View Layout - 2019](https://developer.apple.com/videos/play/wwdc2019/215/)
+  - [sample project](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views)
 
 
 ## 기록
