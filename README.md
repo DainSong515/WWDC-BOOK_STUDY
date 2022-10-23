@@ -91,7 +91,7 @@
 - Make your app visually accessible - 2020
 
 **CollectionView**
-- [Advances in Collection View Layout - 2019](https://developer.apple.com/videos/play/wwdc2019/215/)
+- [Advances in Collection View Layout - 2019](https://developer.apple.com/videos/play/wwdc2019/215/) ✅
   - [sample project](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views)
 
 
