@@ -113,10 +113,12 @@
 | 12주차 |     [Ch5: Building Features - Locating Animals Near You (2)](https://github.com/jryoun1/WWDC-BOOK_STUDY/discussions/14)     |   이송     |     2022.09.26 (월)     |
 | 13주차 |  [WWDC 2021: Explore structured concurrency in Swift (2)](https://developer.apple.com/videos/play/wwdc2021/10134/)      |   연정민     |    2022.10.13 (목)       |
 | 14주차 |  [WWDC 2019: Advances in Collection View Layout(1)](https://developer.apple.com/videos/play/wwdc2019/215)     |   송다인     |   2022.10.17 (월)        |
-| 15주차 |        |   이송      |       2022.10.27 (목)    |
-| 16주차 |        |   홍동현     |      2022.11.3 (목)     |
-| 17주차 |        |        |           |
-| 18주차 |        |        |           |
-| 19주차 |        |        |           |
-| 20주차 |        |        |           |
-| 21주차 |        |        |           |
+| 15주차 |   [WWDC 2019: Advances in Collection View Layout(2)](https://developer.apple.com/videos/play/wwdc2019/215)     |   이송      |       2022.10.24 (월)    |
+| 16주차 |        |   홍동현     |      2022.10.31 (월)     |
+| 17주차 |        |   송다인     |   2022.11.07 (월)  |
+| 18주차 |        |    연정민   |   2022.11.14 (월)   |
+| 19주차 |        |     홍동현   |   2022.11.21 (월)        |
+| 20주차 |        |    이송   |     2022.11.28 (월)      |
+| 21주차 |        |        |     2022.12.12 (월)    |
+| 22주차 |        |        |      2022.12.19 (월)     | 
+| 23주차 |        |        |           |
