@@ -62,7 +62,8 @@
 - Debugging Tips and Tricks - 2016
 - Visual Debugging with Xcode - 2016
 - Debugging with Xcode 9 - 2017
-- LLDB: Beyond “po” - 2019 ✅
+- LLDB: Beyond “po” - 2019 ✅ 
+- iOS Memory Deep Dive - 2018 ✅
 
 **Performance**
 - Understanding Swift Performance - 2016
