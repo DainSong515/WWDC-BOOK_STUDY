@@ -119,7 +119,7 @@
 | 17주차 |     [WWDC 2018: iOS Memory Deep Dive (1)](https://developer.apple.com/videos/play/wwdc2018/416/)     |   송다인     |   2022.11.07 (월)  |
 | 18주차 |   [WWDC 2018: iOS Memory Deep Dive (2)](https://developer.apple.com/videos/play/wwdc2018/416/)     |    연정민   |   2022.11.14 (월)   |
 | 19주차 |    [WWDC 2021: Make blazing fast lists and collection views](https://developer.apple.com/videos/play/wwdc2021/10252/)    |     홍동현   |   2022.11.21 (월)        |
-| 20주차 |        |    이송   |     2022.11.28 (월)      |
+| 20주차 |    [Tech Talks: Explore UI animation hitches and the render loop](https://developer.apple.com/videos/play/tech-talks/10855)    |    이송   |     2022.11.28 (월)      |
 | 21주차 |        |   송다인     |     2022.12.12 (월)    |
 | **책거리**주차 |        |       |      2022.12.19 (월)     | 
 | 22주차 |        |   연정민     |      2023.01.09 (월)     | 
