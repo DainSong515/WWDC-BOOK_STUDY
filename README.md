@@ -121,10 +121,10 @@
 | 19주차 |    [WWDC 2021: Make blazing fast lists and collection views](https://developer.apple.com/videos/play/wwdc2021/10252/)    |     홍동현   |   2022.11.21 (월)        |
 | 20주차 |    [Tech Talks: Explore UI animation hitches and the render loop](https://developer.apple.com/videos/play/tech-talks/10855)    |    이송   |     2022.11.28 (월)      |
 | **책거리**주차 |        |        |     2022.12.12 (월)    |
-| 21주차 |        |   연정민     |      2023.01.09 (월)     | 
-| 22주차 |        |   홍동현     |    2023.01.16 (월)       |
-| 23주차 |        |   이송     |     2023.01.23 (월)      |
-| 24주차 |        |   송다인     |    2023.01.30 (월)       |
+| 21주차 |  [WWDC 2021: Ultimate application performance survival guide](https://developer.apple.com/videos/play/wwdc2021/10181/)  |   연정민     |      2023.01.12 (목)     | 
+| 22주차 |        |   홍동현     |    2023.01.17 (화)       |
+| 23주차 |        |   이송     |     2023.01.26 (목)      |
+| 24주차 |        |   송다인     |    2023.02.02 (목)       |
 | 25주차 |        |   연정민     |          |
 | 26주차 |        |   홍동현     |           |
 | 27주차 |        |   이송     |           |
