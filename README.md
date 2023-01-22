@@ -123,7 +123,7 @@
 | **책거리**주차 |        |        |     2022.12.12 (월)    |
 | 21주차 |  [WWDC 2021: Ultimate application performance survival guide](https://developer.apple.com/videos/play/wwdc2021/10181/)  |   연정민     |      2023.01.12 (목)     | 
 | 22주차 |    [Write tests to fail](https://developer.apple.com/videos/play/wwdc2020/10091/)    |   홍동현     |    2023.01.17 (화)       |
-| 23주차 |    [Build SwiftUI views for widgets](https://developer.apple.com/videos/play/wwdc2020/10033/)    |   이송     |     2023.01.26 (목)      |
+| 23주차 |    [Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028/)    |   이송     |     2023.01.26 (목)      |
 | 24주차 |        |   송다인     |    2023.02.01 (수)       |
 | 25주차 |        |   연정민     |     2023.02.06 (월)     |
 | 26주차 |        |   홍동현     |           |
