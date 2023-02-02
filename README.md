@@ -63,11 +63,10 @@
 - Visual Debugging with Xcode - 2016
 - Debugging with Xcode 9 - 2017
 - LLDB: Beyond “po” - 2019 ✅ 
-- iOS Memory Deep Dive - 2018 ✅
 
 **Performance**
 - Understanding Swift Performance - 2016
-- iOS Memory Deep Dive - 2018
+- iOS Memory Deep Dive - 2018 ✅
 - Using Collections Effectively - 2018
 - Practical Approaches to Great App Performance - 2018
 - Using Time Profiler in Instruments - 2016
