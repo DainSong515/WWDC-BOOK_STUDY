@@ -70,6 +70,9 @@
 - Using Collections Effectively - 2018
 - Practical Approaches to Great App Performance - 2018
 - Using Time Profiler in Instruments - 2016
+- [WWDC 2021: Ultimate application performance survival guide](https://developer.apple.com/videos/play/wwdc2021/10181/) ✅
+- [WWDC 2021: Understand and eliminate hangs from your app](https://developer.apple.com/videos/play/wwdc2021/10258/) ✅
+- [Tech Talks: Explore UI animation hitches and the render loop](https://developer.apple.com/videos/play/tech-talks/10855) ✅
 
 **Concurrent**
 - Concurrent Programming With GCD in Swift 3 - 2016
@@ -93,6 +96,16 @@
 **CollectionView**
 - [Advances in Collection View Layout - 2019](https://developer.apple.com/videos/play/wwdc2019/215/) ✅
   - [sample project](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views)
+- [WWDC 2021: Make blazing fast lists and collection views](https://developer.apple.com/videos/play/wwdc2021/10252/) ✅
+
+**PUSH**
+- [WWDC20: The Push Notifications primer](https://developer.apple.com/videos/play/wwdc2020/10095/) ✅
+
+**WIDGET**
+- [WWDC20: Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028/) ✅
+
+**ELSE**
+- [WWDC22: Add Live Text interaction to your app](https://developer.apple.com/videos/play/wwdc2022/10026/) ✅
 
 
 ## 기록
@@ -121,10 +134,10 @@
 | 20주차 |    [Tech Talks: Explore UI animation hitches and the render loop](https://developer.apple.com/videos/play/tech-talks/10855)    |    이송   |     2022.11.28 (월)      |
 | **책거리**주차 |        |        |     2022.12.12 (월)    |
 | 21주차 |  [WWDC 2021: Ultimate application performance survival guide](https://developer.apple.com/videos/play/wwdc2021/10181/)  |   연정민     |      2023.01.12 (목)     | 
-| 22주차 |    [Write tests to fail](https://developer.apple.com/videos/play/wwdc2020/10091/)    |   홍동현     |    2023.01.17 (화)       |
-| 23주차 |    [Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028/)    |   이송     |     2023.01.26 (목)      |
-| 24주차 |        |   송다인     |    2023.02.01 (수)       |
-| 25주차 |        |   연정민     |     2023.02.06 (월)     |
+| 22주차 |    [WWDC20: Write tests to fail](https://developer.apple.com/videos/play/wwdc2020/10091/)    |   홍동현     |    2023.01.17 (화)       |
+| 23주차 |    [WWDC20: Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028/)    |   이송     |     2023.01.26 (목)      |
+| 24주차 |    [WWDC20: The Push Notifications primer](https://developer.apple.com/videos/play/wwdc2020/10095/)    |   송다인     |    2023.02.01 (수)       |
+| 25주차 |   [WWDC22: Add Live Text interaction to your app](https://developer.apple.com/videos/play/wwdc2022/10026/)   |   연정민     |     2023.02.06 (월)     |
 | 26주차 |        |   홍동현     |           |
 | 27주차 |        |   이송     |           |
 | 28주차 |        |   송다인     |           |
