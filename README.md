@@ -138,10 +138,10 @@
 | 23주차 |    [WWDC20: Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028/)    |   이송     |     2023.01.26 (목)      |
 | 24주차 |    [WWDC20: The Push Notifications primer](https://developer.apple.com/videos/play/wwdc2020/10095/)    |   송다인     |    2023.02.01 (수)       |
 | 25주차 |   [WWDC22: Add Live Text interaction to your app](https://developer.apple.com/videos/play/wwdc2022/10026/)   |   연정민     |     2023.02.06 (월)     |
-| 26주차 |        |   홍동현     |      2023.02.13 (월)     |
+| 26주차 |      [WWDC21: Diagnose Power and Performance regressions in your app](https://developer.apple.com/videos/play/wwdc2021/10087/)  |   홍동현     |      2023.02.13 (월)     |
 | 27주차 |        |   이송     |     2023.02.23 (목)      |
 | 28주차 |        |   송다인     |     2023.03.16 (목)      |
 | 29주차 |        |   연정민     |     2023.03.23 (목)      |
-| 30주차 |        |   홍동현     |           |
+| 30주차 |        |   홍동현     |     2023.03.30 (목)      |
 | 31주차 |        |   이송     |           |
 | 32주차 |        |        |           |
