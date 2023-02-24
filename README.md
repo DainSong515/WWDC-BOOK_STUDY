@@ -140,8 +140,8 @@
 | 25주차 |   [WWDC22: Add Live Text interaction to your app](https://developer.apple.com/videos/play/wwdc2022/10026/)   |   연정민     |     2023.02.06 (월)     |
 | 26주차 |      [WWDC21: Diagnose Power and Performance regressions in your app](https://developer.apple.com/videos/play/wwdc2021/10087/)  |   홍동현     |      2023.02.13 (월)     |
 | 27주차 |    [WWDC21: Add intelligence to your widget](https://developer.apple.com/videos/play/wwdc2021/10049/)    |   이송     |     2023.02.23 (목)      |
-| 28주차 |        |   송다인     |     2023.03.16 (목)      |
-| 29주차 |        |   연정민     |     2023.03.23 (목)      |
-| 30주차 |        |   홍동현     |     2023.03.30 (목)      |
+| 28주차 |        |   송다인     |     2023.03.16 (목)  22시  |
+| 29주차 |        |   연정민     |     2023.03.22 (수)   |
+| 30주차 |        |   홍동현     |     2023.03.29 (수)   |
 | 31주차 |        |   이송     |           |
 | 32주차 |        |        |           |
