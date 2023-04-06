@@ -112,11 +112,11 @@
 
 |        | 주제 | 발표자 | 진행 날짜 |
 | :----: | :----: | :----: | -------- |
-| 1주차  |  [LLDB: Beyond “po” - WWDC19](https://developer.apple.com/videos/play/wwdc2019/429/)    |    송다인    | 2022.07.05(화)  |
+| 1주차  |  [WWDC 2019: LLDB: Beyond “po”](https://developer.apple.com/videos/play/wwdc2019/429/)    |    송다인    | 2022.07.05(화)  |
 | 2주차  |    Ch2: Laying Down a Strong Foundation    |    연정민    |    2022.07.12(화)   |
-| 3주차  |    [Meet async/await in Swift - WWDC21](https://developer.apple.com/videos/play/wwdc2021/10132)    |    홍동현    |    2022.07.19(화)   |
+| 3주차  |    [WWDC 2021: Meet async/await in Swift](https://developer.apple.com/videos/play/wwdc2021/10132)    |    홍동현    |    2022.07.19(화)   |
 | 4주차  |    Ch3: Data Layer - Networking    |    이송    |      2022.07.26(화)     |
-| 5주차  |    [Protect mutable state with Swift actors - WWDC21](https://developer.apple.com/videos/play/wwdc2021/10133/)    |    연정민    |     2022.08.02(화)      |
+| 5주차  |    [WWDC 2021: Protect mutable state with Swift actors](https://developer.apple.com/videos/play/wwdc2021/10133/)    |    연정민    |     2022.08.02(화)      |
 | 6주차  |    Ch4: [4 Defining the Data Layer - Databases](https://github.com/jryoun1/WWDC-BOOK_STUDY/discussions/8)   |    송다인    |     2022.08.09(화)      |
 | 7주차  |    [WWDC 2019: Data Flow Through SwiftUI - part 1](https://developer.apple.com/videos/play/wwdc2019/226/)    |    이송    |     2022.08.16(화)      |
 | 8주차  |    Ch4: 4 Defining the Data Layer - Databases    |    홍동현    |    2022.08.23(화)       |
@@ -127,21 +127,21 @@
 | 13주차 |  [WWDC 2021: Explore structured concurrency in Swift (2)](https://developer.apple.com/videos/play/wwdc2021/10134/)      |   연정민     |    2022.10.13 (목)       |
 | 14주차 |  [WWDC 2019: Advances in Collection View Layout(1)](https://developer.apple.com/videos/play/wwdc2019/215)     |   송다인     |   2022.10.17 (월)        |
 | 15주차 |   [WWDC 2019: Advances in Collection View Layout(2)](https://developer.apple.com/videos/play/wwdc2019/215)     |   이송      |       2022.10.24 (월)    |
-| 16주차 |    [WWDC 2021: Understand and eliminate hangs from your app](https://developer.apple.com/videos/play/wwdc2021/10258/)    |   홍동현     |      2022.10.31 (월)     |
-| 17주차 |     [WWDC 2018: iOS Memory Deep Dive (1)](https://developer.apple.com/videos/play/wwdc2018/416/)     |   송다인     |   2022.11.07 (월)  |
+| 16주차 |   [WWDC 2021: Understand and eliminate hangs from your app](https://developer.apple.com/videos/play/wwdc2021/10258/)    |   홍동현     |      2022.10.31 (월)     |
+| 17주차 |   [WWDC 2018: iOS Memory Deep Dive (1)](https://developer.apple.com/videos/play/wwdc2018/416/)     |   송다인     |   2022.11.07 (월)  |
 | 18주차 |   [WWDC 2018: iOS Memory Deep Dive (2)](https://developer.apple.com/videos/play/wwdc2018/416/)     |    연정민   |   2022.11.14 (월)   |
-| 19주차 |    [WWDC 2021: Make blazing fast lists and collection views](https://developer.apple.com/videos/play/wwdc2021/10252/)    |     홍동현   |   2022.11.21 (월)        |
-| 20주차 |    [Tech Talks: Explore UI animation hitches and the render loop](https://developer.apple.com/videos/play/tech-talks/10855)    |    이송   |     2022.11.28 (월)      |
+| 19주차 |   [WWDC 2021: Make blazing fast lists and collection views](https://developer.apple.com/videos/play/wwdc2021/10252/)    |     홍동현   |   2022.11.21 (월)        |
+| 20주차 |   [Tech Talks: Explore UI animation hitches and the render loop](https://developer.apple.com/videos/play/tech-talks/10855)    |    이송   |     2022.11.28 (월)      |
 | **책거리**주차 |        |        |     2022.12.12 (월)    |
 | 21주차 |  [WWDC 2021: Ultimate application performance survival guide](https://developer.apple.com/videos/play/wwdc2021/10181/)  |   연정민     |      2023.01.12 (목)     | 
-| 22주차 |    [WWDC20: Write tests to fail](https://developer.apple.com/videos/play/wwdc2020/10091/)    |   홍동현     |    2023.01.17 (화)       |
-| 23주차 |    [WWDC20: Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028/)    |   이송     |     2023.01.26 (목)      |
-| 24주차 |    [WWDC20: The Push Notifications primer](https://developer.apple.com/videos/play/wwdc2020/10095/)    |   송다인     |    2023.02.01 (수)       |
-| 25주차 |   [WWDC22: Add Live Text interaction to your app](https://developer.apple.com/videos/play/wwdc2022/10026/)   |   연정민     |     2023.02.06 (월)     |
-| 26주차 |      [WWDC21: Diagnose Power and Performance regressions in your app](https://developer.apple.com/videos/play/wwdc2021/10087/)  |   홍동현     |      2023.02.13 (월)     |
-| 27주차 |    [WWDC21: Add intelligence to your widget](https://developer.apple.com/videos/play/wwdc2021/10049/)    |   이송     |     2023.02.23 (목)      |
-| 28주차 |        |   송다인     |     2023.03.16 (목)  22시  |
-| 29주차 |        |   연정민     |     2023.03.22 (수)   |
-| 30주차 |        |   홍동현     |     2023.03.29 (수)   |
-| 31주차 |        |   이송     |           |
+| 22주차 |   [WWDC 2020: Write tests to fail](https://developer.apple.com/videos/play/wwdc2020/10091/)    |   홍동현     |    2023.01.17 (화)       |
+| 23주차 |   [WWDC 2020: Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028/)    |   이송     |     2023.01.26 (목)      |
+| 24주차 |   [WWDC 2020: The Push Notifications primer](https://developer.apple.com/videos/play/wwdc2020/10095/)    |   송다인     |    2023.02.01 (수)       |
+| 25주차 |   [WWDC 2022: Add Live Text interaction to your app](https://developer.apple.com/videos/play/wwdc2022/10026/)   |   연정민     |     2023.02.06 (월)     |
+| 26주차 |   [WWDC 2021: Diagnose Power and Performance regressions in your app](https://developer.apple.com/videos/play/wwdc2021/10087/)  |   홍동현     |      2023.02.13 (월)     |
+| 27주차 |   [WWDC 2021: Add intelligence to your widget](https://developer.apple.com/videos/play/wwdc2021/10049/)    |   이송     |     2023.02.23 (목)      |
+| 28주차 |   [WWDC 2017: Love at First Launch](https://developer.apple.com/videos/play/wwdc2017/816/)     |   송다인     |     2023.04.06 (목)  |
+| 29주차 |        |   연정민     |     2023.04.12 (수)   |
+| 30주차 |        |   홍동현     |     2023.04.19 (수)   |
+| 31주차 |        |   이송     |      2023.05.04 (목)   |
 | 32주차 |        |        |           |
