@@ -127,21 +127,21 @@
 | 13주차 |  [WWDC 2021: Explore structured concurrency in Swift (2)](https://developer.apple.com/videos/play/wwdc2021/10134/)      |   연정민     |    2022.10.13 (목)       |
 | 14주차 |  [WWDC 2019: Advances in Collection View Layout(1)](https://developer.apple.com/videos/play/wwdc2019/215)     |   송다인     |   2022.10.17 (월)        |
 | 15주차 |   [WWDC 2019: Advances in Collection View Layout(2)](https://developer.apple.com/videos/play/wwdc2019/215)     |   이송      |       2022.10.24 (월)    |
-| 16주차 |    [WWDC 2021: Understand and eliminate hangs from your app](https://developer.apple.com/videos/play/wwdc2021/10258/)    |   홍동현     |      2022.10.31 (월)     |
-| 17주차 |     [WWDC 2018: iOS Memory Deep Dive (1)](https://developer.apple.com/videos/play/wwdc2018/416/)     |   송다인     |   2022.11.07 (월)  |
+| 16주차 |   [WWDC 2021: Understand and eliminate hangs from your app](https://developer.apple.com/videos/play/wwdc2021/10258/)    |   홍동현     |      2022.10.31 (월)     |
+| 17주차 |   [WWDC 2018: iOS Memory Deep Dive (1)](https://developer.apple.com/videos/play/wwdc2018/416/)     |   송다인     |   2022.11.07 (월)  |
 | 18주차 |   [WWDC 2018: iOS Memory Deep Dive (2)](https://developer.apple.com/videos/play/wwdc2018/416/)     |    연정민   |   2022.11.14 (월)   |
-| 19주차 |    [WWDC 2021: Make blazing fast lists and collection views](https://developer.apple.com/videos/play/wwdc2021/10252/)    |     홍동현   |   2022.11.21 (월)        |
-| 20주차 |    [Tech Talks: Explore UI animation hitches and the render loop](https://developer.apple.com/videos/play/tech-talks/10855)    |    이송   |     2022.11.28 (월)      |
+| 19주차 |   [WWDC 2021: Make blazing fast lists and collection views](https://developer.apple.com/videos/play/wwdc2021/10252/)    |     홍동현   |   2022.11.21 (월)        |
+| 20주차 |   [Tech Talks: Explore UI animation hitches and the render loop](https://developer.apple.com/videos/play/tech-talks/10855)    |    이송   |     2022.11.28 (월)      |
 | **책거리**주차 |        |        |     2022.12.12 (월)    |
 | 21주차 |  [WWDC 2021: Ultimate application performance survival guide](https://developer.apple.com/videos/play/wwdc2021/10181/)  |   연정민     |      2023.01.12 (목)     | 
-| 22주차 |    [WWDC20: Write tests to fail](https://developer.apple.com/videos/play/wwdc2020/10091/)    |   홍동현     |    2023.01.17 (화)       |
-| 23주차 |    [WWDC20: Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028/)    |   이송     |     2023.01.26 (목)      |
-| 24주차 |    [WWDC20: The Push Notifications primer](https://developer.apple.com/videos/play/wwdc2020/10095/)    |   송다인     |    2023.02.01 (수)       |
+| 22주차 |   [WWDC20: Write tests to fail](https://developer.apple.com/videos/play/wwdc2020/10091/)    |   홍동현     |    2023.01.17 (화)       |
+| 23주차 |   [WWDC20: Meet WidgetKit](https://developer.apple.com/videos/play/wwdc2020/10028/)    |   이송     |     2023.01.26 (목)      |
+| 24주차 |   [WWDC20: The Push Notifications primer](https://developer.apple.com/videos/play/wwdc2020/10095/)    |   송다인     |    2023.02.01 (수)       |
 | 25주차 |   [WWDC22: Add Live Text interaction to your app](https://developer.apple.com/videos/play/wwdc2022/10026/)   |   연정민     |     2023.02.06 (월)     |
-| 26주차 |      [WWDC21: Diagnose Power and Performance regressions in your app](https://developer.apple.com/videos/play/wwdc2021/10087/)  |   홍동현     |      2023.02.13 (월)     |
-| 27주차 |    [WWDC21: Add intelligence to your widget](https://developer.apple.com/videos/play/wwdc2021/10049/)    |   이송     |     2023.02.23 (목)      |
-| 28주차 |        |   송다인     |     2023.03.16 (목)  22시  |
-| 29주차 |        |   연정민     |     2023.03.22 (수)   |
-| 30주차 |        |   홍동현     |     2023.03.29 (수)   |
-| 31주차 |        |   이송     |           |
+| 26주차 |   [WWDC21: Diagnose Power and Performance regressions in your app](https://developer.apple.com/videos/play/wwdc2021/10087/)  |   홍동현     |      2023.02.13 (월)     |
+| 27주차 |   [WWDC21: Add intelligence to your widget](https://developer.apple.com/videos/play/wwdc2021/10049/)    |   이송     |     2023.02.23 (목)      |
+| 28주차 |   [WWDC17: Love at First Launch](https://developer.apple.com/videos/play/wwdc2017/816/)     |   송다인     |     2023.04.06 (목)  |
+| 29주차 |        |   연정민     |     2023.04.13 (목)   |
+| 30주차 |        |   홍동현     |     2023.04.19 (수)   |
+| 31주차 |        |   이송     |      2023.05.04 (목)   |
 | 32주차 |        |        |           |
