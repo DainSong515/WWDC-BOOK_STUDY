@@ -63,7 +63,7 @@
 - Visual Debugging with Xcode - 2016
 - Debugging with Xcode 9 - 2017
 - LLDB: Beyond “po” - 2019 ✅ 
-- Discover breakpoint improvements - 2021 ✅
+- [Discover breakpoint improvements - 2021](https://developer.apple.com/videos/play/wwdc2022/110370/) ✅
 
 **Performance**
 - Understanding Swift Performance - 2016
