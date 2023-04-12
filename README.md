@@ -63,6 +63,7 @@
 - Visual Debugging with Xcode - 2016
 - Debugging with Xcode 9 - 2017
 - LLDB: Beyond “po” - 2019 ✅ 
+- Discover breakpoint improvements - 2021 ✅
 
 **Performance**
 - Understanding Swift Performance - 2016
@@ -141,7 +142,7 @@
 | 26주차 |   [WWDC 2021: Diagnose Power and Performance regressions in your app](https://developer.apple.com/videos/play/wwdc2021/10087/)  |   홍동현     |      2023.02.13 (월)     |
 | 27주차 |   [WWDC 2021: Add intelligence to your widget](https://developer.apple.com/videos/play/wwdc2021/10049/)    |   이송     |     2023.02.23 (목)      |
 | 28주차 |   [WWDC 2017: Love at First Launch](https://developer.apple.com/videos/play/wwdc2017/816/)     |   송다인     |     2023.04.06 (목)  |
-| 29주차 |        |   연정민     |     2023.04.12 (수)   |
+| 29주차 |   [WWDC 2021: Discover breakpoint improvements](https://developer.apple.com/videos/play/wwdc2022/110370/)    |   연정민     |     2023.04.12 (수)   |
 | 30주차 |        |   홍동현     |     2023.04.19 (수)   |
 | 31주차 |        |   이송     |      2023.05.04 (목)   |
 | 32주차 |        |        |           |
