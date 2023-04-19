@@ -143,6 +143,6 @@
 | 27주차 |   [WWDC 2021: Add intelligence to your widget](https://developer.apple.com/videos/play/wwdc2021/10049/)    |   이송     |     2023.02.23 (목)      |
 | 28주차 |   [WWDC 2017: Love at First Launch](https://developer.apple.com/videos/play/wwdc2017/816/)     |   송다인     |     2023.04.06 (목)  |
 | 29주차 |   [WWDC 2021: Discover breakpoint improvements](https://developer.apple.com/videos/play/wwdc2022/110370/)    |   연정민     |     2023.04.12 (수)   |
-| 30주차 |        |   홍동현     |     2023.04.19 (수)   |
-| 31주차 |        |   이송     |      2023.05.04 (목)   |
-| 32주차 |        |        |           |
+| 30주차 |    [WWDC 2018: Building Faster in Xcode](https://developer.apple.com/videos/play/wwdc2018/408/)    |   홍동현     |     2023.04.19 (수)   |
+| 31주차 |        |    송다인    |      2023.05.04 (목)   |
+| 32주차 |        |        |      2023.05.11 (목)     |
