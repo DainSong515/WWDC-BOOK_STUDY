@@ -148,4 +148,5 @@
 | 29주차 |   [WWDC 2021: Discover breakpoint improvements](https://developer.apple.com/videos/play/wwdc2022/110370/)    |   연정민     |     2023.04.12 (수)   |
 | 30주차 |   [WWDC 2018: Building Faster in Xcode](https://developer.apple.com/videos/play/wwdc2018/408/)    |   홍동현     |     2023.04.19 (수)   |
 | 31주차 |   [WWDC 2021: Discover concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10019/)    |    송다인    |      2023.05.18 (목)   |
-| 32주차 |        |        |      2023.05.25 (목)     |
+| 32주차 |   아무거나 발표 time     | 홍동현, 송다인, 연정민       |      2023.05.24 (수)     |
+| 32주차 |    [WWDC 2022: Meet Swift Regex](https://developer.apple.com/videos/play/wwdc2022/110357/)    |    연정민    |      2023.06.01 (목)     |
