@@ -150,3 +150,4 @@
 | 31주차 |   [WWDC 2021: Discover concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10019/)    |    송다인    |      2023.05.18 (목)   |
 | 32주차 |   아무거나 발표 time     | 홍동현, 송다인, 연정민       |      2023.05.24 (수)     |
 | 32주차 |    [WWDC 2022: Meet Swift Regex](https://developer.apple.com/videos/play/wwdc2022/110357/)    |    연정민    |      2023.06.01 (목)     |
+| 33주차 |    아무거나 발표 time   |    홍동현, 송다인, 연정민    |      2023.06.07 (수)     |
