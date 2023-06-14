@@ -151,3 +151,5 @@
 | 32주차 |   아무거나 발표 time     | 홍동현, 송다인, 연정민       |      2023.05.24 (수)     |
 | 32주차 |    [WWDC 2022: Meet Swift Regex](https://developer.apple.com/videos/play/wwdc2022/110357/)    |    연정민    |      2023.06.01 (목)     |
 | 33주차 |    아무거나 발표 time   |    홍동현, 송다인, 연정민    |      2023.06.07 (수)     |
+| 34주차 |    [WWDC 2023: What's new in UIKit](https://developer.apple.com/videos/play/wwdc2023/10055/)  |    홍동현    |      2023.06.14 (수)     |
+| 35주차 |    아무거나 발표 time   |    홍동현, 송다인, 연정민    |      2023.06.22 (목)     |
